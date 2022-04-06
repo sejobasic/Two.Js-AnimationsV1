@@ -1,0 +1,21 @@
+body {
+  background-color: #c9cba3;
+}
+
+section {
+  width: 500px;
+  height: 500px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.colorred {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
